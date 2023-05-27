@@ -14,7 +14,7 @@ class CreateTableCamps extends Migration
     public function up()
     {
         Schema::table('camps', function (Blueprint $table) {
-            //
+            
         });
     }
 
